@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NSViewAnim_Example' do
+  pod 'NSViewAnim', :path => '../'
+
+  target 'NSViewAnim_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
