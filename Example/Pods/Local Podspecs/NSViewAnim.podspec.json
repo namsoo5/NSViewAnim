@@ -1,0 +1,22 @@
+{
+  "name": "NSViewAnim",
+  "version": "0.1.0",
+  "summary": "A short description of NSViewAnim.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/namsoo5/NSViewAnim",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "namsoo5": "are34@naver.com"
+  },
+  "source": {
+    "git": "https://github.com/namsoo5/NSViewAnim.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NSViewAnim/Classes/**/*"
+}

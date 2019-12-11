@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		066D4ED4239F4C0100EC1DDE /* Pods_NSViewAnim_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5D39D37D8CD6E0B624720727 /* Pods_NSViewAnim_Example.framework */; };
+		066D4EDB23A0B4EA00EC1DDE /* SecondVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 066D4EDA23A0B4EA00EC1DDE /* SecondVC.swift */; };
 		3D23407E9EB74C9790DE4D08 /* Pods_NSViewAnim_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A200C1BF80E6AD0E069C5815 /* Pods_NSViewAnim_Tests.framework */; };
 		607FACD61AFB9204008FA782 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACD51AFB9204008FA782 /* AppDelegate.swift */; };
 		607FACD81AFB9204008FA782 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACD71AFB9204008FA782 /* ViewController.swift */; };
@@ -14,7 +16,6 @@
 		607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDC1AFB9204008FA782 /* Images.xcassets */; };
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
-		EC108FF61346126B351ED241 /* Pods_NSViewAnim_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5D39D37D8CD6E0B624720727 /* Pods_NSViewAnim_Example.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,6 +29,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		066D4EDA23A0B4EA00EC1DDE /* SecondVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondVC.swift; sourceTree = "<group>"; };
 		5D39D37D8CD6E0B624720727 /* Pods_NSViewAnim_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NSViewAnim_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD01AFB9204008FA782 /* NSViewAnim_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NSViewAnim_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -39,12 +41,12 @@
 		607FACE51AFB9204008FA782 /* NSViewAnim_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NSViewAnim_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		642010F5148B7C8155E42E1B /* NSViewAnim.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = NSViewAnim.podspec; path = ../NSViewAnim.podspec; sourceTree = "<group>"; };
+		642010F5148B7C8155E42E1B /* NSViewAnim.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = NSViewAnim.podspec; path = ../NSViewAnim.podspec; sourceTree = "<group>"; };
 		672B73ECD3C6AA739B52BBAE /* Pods-NSViewAnim_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NSViewAnim_Tests.debug.xcconfig"; path = "Target Support Files/Pods-NSViewAnim_Tests/Pods-NSViewAnim_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		767B1CB9DE42064D7301CF53 /* Pods-NSViewAnim_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NSViewAnim_Example.debug.xcconfig"; path = "Target Support Files/Pods-NSViewAnim_Example/Pods-NSViewAnim_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		9A380901AFDCDDA1F3887170 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		9A380901AFDCDDA1F3887170 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		A200C1BF80E6AD0E069C5815 /* Pods_NSViewAnim_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NSViewAnim_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		A5D7D5903D968E7538BCBD90 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		A5D7D5903D968E7538BCBD90 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		D2BD0A999288719E50621FAE /* Pods-NSViewAnim_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NSViewAnim_Tests.release.xcconfig"; path = "Target Support Files/Pods-NSViewAnim_Tests/Pods-NSViewAnim_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		E8FF59CAA4AA255A7911E2AA /* Pods-NSViewAnim_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NSViewAnim_Example.release.xcconfig"; path = "Target Support Files/Pods-NSViewAnim_Example/Pods-NSViewAnim_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -54,7 +56,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EC108FF61346126B351ED241 /* Pods_NSViewAnim_Example.framework in Frameworks */,
+				066D4ED4239F4C0100EC1DDE /* Pods_NSViewAnim_Example.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -95,6 +97,7 @@
 			children = (
 				607FACD51AFB9204008FA782 /* AppDelegate.swift */,
 				607FACD71AFB9204008FA782 /* ViewController.swift */,
+				066D4EDA23A0B4EA00EC1DDE /* SecondVC.swift */,
 				607FACD91AFB9204008FA782 /* Main.storyboard */,
 				607FACDC1AFB9204008FA782 /* Images.xcassets */,
 				607FACDE1AFB9204008FA782 /* LaunchScreen.xib */,
@@ -156,7 +159,6 @@
 				672B73ECD3C6AA739B52BBAE /* Pods-NSViewAnim_Tests.debug.xcconfig */,
 				D2BD0A999288719E50621FAE /* Pods-NSViewAnim_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +229,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -332,6 +335,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				607FACD81AFB9204008FA782 /* ViewController.swift in Sources */,
+				066D4EDB23A0B4EA00EC1DDE /* SecondVC.swift in Sources */,
 				607FACD61AFB9204008FA782 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -1,0 +1,6 @@
+framework module Pods_NSViewAnim_Tests {
+  umbrella header "Pods-NSViewAnim_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

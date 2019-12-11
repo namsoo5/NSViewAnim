@@ -1,0 +1,16 @@
+PODS:
+  - NSViewAnim (0.1.0)
+
+DEPENDENCIES:
+  - NSViewAnim (from `../`)
+
+EXTERNAL SOURCES:
+  NSViewAnim:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NSViewAnim: 431a73798ac63519c8481056331a5c799b37fec3
+
+PODFILE CHECKSUM: e1a041363192fb5040c79b2a80c3eb8aa54f8d2a
+
+COCOAPODS: 1.8.4
