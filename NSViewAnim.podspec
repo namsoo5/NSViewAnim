@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'NSViewAnim'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'ViewController Animation'
 
 # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '12.0'
 
-  s.source_files = 'NSViewAnim/Classes/**/*'
+  s.source_files = 'Sources/*'
   
   # s.resource_bundles = {
   #   'NSViewAnim' => ['NSViewAnim/Assets/*.png']
