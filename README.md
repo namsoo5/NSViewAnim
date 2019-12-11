@@ -3,15 +3,15 @@
 
 ![](https://img.shields.io/badge/namsoo-firstlib-blueviolet)
 
-[![CI Status](https://img.shields.io/travis/namsoo5/NSViewAnim.svg?style=flat)](https://travis-ci.org/namsoo5/NSViewAnim)
+![](https://img.shields.io/badge/platform-iOS-critical)
 
-[![Version](https://img.shields.io/cocoapods/v/NSViewAnim.svg?style=flat)](https://cocoapods.org/pods/NSViewAnim)
+![](https://img.shields.io/badge/Swift-5.0-ff69b4)
 
-[![License](https://img.shields.io/cocoapods/l/NSViewAnim.svg?style=flat)](https://cocoapods.org/pods/NSViewAnim)
+![](https://img.shields.io/badge/pod-1.0.0-blue)
 
-[![Platform](https://img.shields.io/cocoapods/p/NSViewAnim.svg?style=flat)](https://cocoapods.org/pods/NSViewAnim)
+![](https://img.shields.io/badge/license-MIT-red)
 
-
+![](https://img.shields.io/badge/build-passing-success)
 
 
 
